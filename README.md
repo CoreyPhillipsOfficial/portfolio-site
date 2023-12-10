@@ -1,4 +1,4 @@
 # portfolio-site
 
-https://www.youtube.com/watch?v=YQCDUJ6hhNY
+https://youtu.be/YQCDUJ6hhNY?feature=shared&t=3192
 
