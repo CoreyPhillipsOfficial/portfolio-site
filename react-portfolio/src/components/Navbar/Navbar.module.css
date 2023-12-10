@@ -16,3 +16,19 @@
     text-decoration: none;
     color: var(--color-text);
 }
+
+.menu {
+    display: flex;
+}
+
+.menuItems {
+    display: flex;
+    gap: 47px;
+    list-style: none;
+}
+
+.menuItems a {
+    font-size: 25px;
+    color: var(--color-text);
+    text-decoration: none;
+}
