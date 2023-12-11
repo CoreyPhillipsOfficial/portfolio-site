@@ -1,7 +1,7 @@
 [
     {
         "role": "Software Engineer",
-        "organisation": "Google",
+        "organization": "Google",
         "startDate": "Sept, 2022",
         "endDate": "Present",
         "experiences": [
@@ -12,7 +12,7 @@
     },
     {
         "role": "UI Designer",
-        "organisation": "Mirosoft",
+        "organization": "Mirosoft",
         "startDate": "Aug, 2021",
         "endDate": "Aug, 2022",
         "experiences": [
@@ -23,7 +23,7 @@
     },
     {
         "role": "SWE Intern",
-        "organisation": "Netflix",
+        "organization": "Netflix",
         "startDate": "Apr, 2020",
         "endDate": "Jun, 2020",
         "experiences": [
