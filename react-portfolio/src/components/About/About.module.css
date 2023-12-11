@@ -1,0 +1,22 @@
+@import '../../vars.css';
+
+.container {
+    position: relative;
+    background-color: rgba(12, 12, 12, 6);
+    border-radius: 15px;
+    padding: 73px;
+    margin-top: 129px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.content {}
