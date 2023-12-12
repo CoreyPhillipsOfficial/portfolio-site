@@ -27,12 +27,14 @@
 
 .skills {
     width: 100%;
+    height: 180px;
     margin-top: 14px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 6px;
     list-style: none;
+    align-items: stretch;
 }
 
 .skill {

@@ -21,7 +21,6 @@
         "description": "This is a city-based weather dashboard for the current weather and 5-day forecast.",
         "skills": [
             "HTML",
-            "CSS",
             "Bootstrap",
             "Javasctipt",
             "jQuery",
@@ -36,12 +35,13 @@
     {
         "title": "Javascript Quiz",
         "imageSrc": "projects/project.png",
-        "description": "This is a game that tests user’s knowledge of Javascript.",
+        "description": "This project is a quiz game with a timer that tests the user’s knowledge of Javascript.",
         "skills": [
             "HTML",
             "CSS",
             "Javasctipt",
-            "Local Storage"
+            "Local Storage",
+            "DOM Manipulation"
         ],
         "demo": "https://coreyphillipsofficial.github.io/javascript_quiz/",
         "source": "https://github.com/CoreyPhillipsOfficial/javascript_quiz"
