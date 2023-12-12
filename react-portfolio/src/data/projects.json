@@ -1,39 +1,49 @@
 [
     {
-        "title": "Project A",
+        "title": "Trails Near Me",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a project made to show all hiking trails nearby based on the user's location.",
         "skills": [
-            "React",
+            "HTML",
+            "CSS",
+            "Javasctipt",
+            "jQuery",
+            "API",
             "Express",
             "Node"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://coreyphillipsofficial.github.io/trails-near-me/",
+        "source": "https://github.com/CoreyPhillipsOfficial/trails-near-me"
     },
     {
-        "title": "Project B",
+        "title": "Weather Dashboard",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a city-based weather dashboard for the current weather and 5-day forecast.",
         "skills": [
-            "React",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Javasctipt",
+            "jQuery",
+            "API",
             "Express",
             "Node",
-            "Sass"
+            "DayJS"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://coreyphillipsofficial.github.io/weather-dashboard/",
+        "source": "https://github.com/CoreyPhillipsOfficial/weather-dashboard/blob/main/assets/weather-dashboard-screenshot.png"
     },
     {
-        "title": "Project C",
+        "title": "Javascript Quiz",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a game that tests user’s knowledge of Javascript.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "HTML",
+            "CSS",
+            "Javasctipt",
+            "Local Storage"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://coreyphillipsofficial.github.io/javascript_quiz/",
+        "source": "https://github.com/CoreyPhillipsOfficial/javascript_quiz"
     }
 ]
