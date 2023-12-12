@@ -1,4 +1,4 @@
-@import '../../vars.css';
+@import "../../vars.css";
 
 .navbar {
     position: relative;
@@ -31,6 +31,10 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
+}
+
+.menuBtn {
+    display: none;
 }
 
 @media screen and (max-width: 830px) {
