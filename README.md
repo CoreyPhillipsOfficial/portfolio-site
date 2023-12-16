@@ -17,7 +17,9 @@ This is a portfolio site built using ReactJS. It showcases my projects, experien
 
 ## Usage
 
-To view the deployed version of the portfolio site, click <a href="https://corey-phillips.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>.
+To view the deployed version of the portfolio site, click [here](https://corey-phillips.netlify.app/).
+
+*(For the best experience, you may want to consider opening the link in a new tab. You can typically do this by right-clicking the link and selecting 'Open link in new tab' or using the browser's shortcut.)*
 
 To start the development server, run the following command:
 
