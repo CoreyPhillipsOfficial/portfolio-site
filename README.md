@@ -23,7 +23,7 @@ To view the deployed version of the portfolio site, click [here](https://corey-p
 
 To start the development server, run the following command:
 
-npm run dev
+npm run dev 
 
 
 

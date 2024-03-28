@@ -1,36 +1,19 @@
 [
     {
-        "title": "Trails Near Me",
+        "title": "React Weather App",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to show all hiking trails nearby based on the user's location.",
+        "description": "This is a city-based weather dashboard for the current weather in imperial and metric units.",
         "skills": [
             "HTML",
             "CSS",
-            "Javasctipt",
-            "jQuery",
+            "Javascript",
             "API",
-            "Express",
-            "Node"
+            "Fetch API",
+            "REACT",
+            "REACT Hooks"
         ],
-        "demo": "https://coreyphillipsofficial.github.io/trails-near-me/",
-        "source": "https://github.com/CoreyPhillipsOfficial/trails-near-me"
-    },
-    {
-        "title": "Weather Dashboard",
-        "imageSrc": "projects/project.png",
-        "description": "This is a city-based weather dashboard for the current weather and 5-day forecast.",
-        "skills": [
-            "HTML",
-            "Bootstrap",
-            "Javasctipt",
-            "jQuery",
-            "API",
-            "Express",
-            "Node",
-            "DayJS"
-        ],
-        "demo": "https://coreyphillipsofficial.github.io/weather-dashboard/",
-        "source": "https://github.com/CoreyPhillipsOfficial/weather-dashboard/blob/main/assets/weather-dashboard-screenshot.png"
+        "demo": "https://corey-simple-weather-app.netlify.app/",
+        "source": "https://github.com/CoreyPhillipsOfficial/react-weather-app"
     },
     {
         "title": "Javascript Quiz",
@@ -39,11 +22,27 @@
         "skills": [
             "HTML",
             "CSS",
-            "Javasctipt",
+            "Javascript",
             "Local Storage",
             "DOM Manipulation"
         ],
         "demo": "https://coreyphillipsofficial.github.io/javascript_quiz/",
         "source": "https://github.com/CoreyPhillipsOfficial/javascript_quiz"
+    },
+    {
+        "title": "Trails Near Me",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to show all hiking trails nearby based on the user's location.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "jQuery",
+            "API",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://coreyphillipsofficial.github.io/trails-near-me/",
+        "source": "https://github.com/CoreyPhillipsOfficial/trails-near-me"
     }
 ]
