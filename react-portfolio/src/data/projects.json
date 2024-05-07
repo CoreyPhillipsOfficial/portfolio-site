@@ -18,7 +18,7 @@
     {
         "title": "Online Clothing Store",
         "imageSrc": "projects/e-commerce-site.png",
-        "description": "This is a This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce platform for an online clothing store.",
+        "description": "This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce clothing store.",
         "skills": [
             "MongoDB",
             "Express",
@@ -35,7 +35,7 @@
     {
         "title": "Javascript Quiz",
         "imageSrc": "projects/javascript-quiz.png",
-        "description": "This project is a quiz game with a timer that tests the user’s knowledge of Javascript.",
+        "description": "This project is a quiz game that tests the user’s knowledge of Javascript. Answer the questions before the timer runs out!",
         "skills": [
             "HTML",
             "CSS",
