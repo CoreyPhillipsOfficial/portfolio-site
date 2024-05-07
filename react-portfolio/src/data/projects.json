@@ -1,7 +1,7 @@
 [
     {
         "title": "React Weather App",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/weather-app.png",
         "description": "This is a city-based weather dashboard for the current weather in imperial and metric units.",
         "skills": [
             "HTML",
@@ -16,8 +16,25 @@
         "source": "https://github.com/CoreyPhillipsOfficial/react-weather-app"
     },
     {
+        "title": "Online Clothing Store",
+        "imageSrc": "projects/e-commerce-site.png",
+        "description": "This is a This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce platform for an online clothing store.",
+        "skills": [
+            "MongoDB",
+            "Express",
+            "REACT",
+            "Node.js",
+            "CSS",
+            "Javascript",
+            "JWT",
+            "CORS"
+        ],
+        "demo": "https://github.com/CoreyPhillipsOfficial/e-commerce-site/blob/main/README.md#getting-started",
+        "source": "https://github.com/CoreyPhillipsOfficial/e-commerce-site"
+    },
+    {
         "title": "Javascript Quiz",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/javascript-quiz.png",
         "description": "This project is a quiz game with a timer that tests the user’s knowledge of Javascript.",
         "skills": [
             "HTML",
@@ -28,21 +45,5 @@
         ],
         "demo": "https://coreyphillipsofficial.github.io/javascript_quiz/",
         "source": "https://github.com/CoreyPhillipsOfficial/javascript_quiz"
-    },
-    {
-        "title": "Trails Near Me",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to show all hiking trails nearby based on the user's location.",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "jQuery",
-            "API",
-            "Express",
-            "Node"
-        ],
-        "demo": "https://coreyphillipsofficial.github.io/trails-near-me/",
-        "source": "https://github.com/CoreyPhillipsOfficial/trails-near-me"
     }
 ]
