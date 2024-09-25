@@ -1,49 +1,50 @@
 [
-    {
-        "title": "React Weather App",
-        "imageSrc": "projects/weather-app.png",
-        "description": "This is a city-based weather dashboard for the current weather in imperial and metric units.",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "API",
-            "Fetch API",
-            "REACT",
-            "REACT Hooks"
-        ],
-        "demo": "https://corey-simple-weather-app.netlify.app/",
-        "source": "https://github.com/CoreyPhillipsOfficial/react-weather-app"
-    },
-    {
-        "title": "Online Clothing Store",
-        "imageSrc": "projects/e-commerce-site.png",
-        "description": "This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce clothing store.",
-        "skills": [
-            "MongoDB",
-            "Express",
-            "REACT",
-            "Node.js",
-            "CSS",
-            "Javascript",
-            "JWT",
-            "CORS"
-        ],
-        "demo": "https://github.com/CoreyPhillipsOfficial/e-commerce-site/blob/main/README.md#getting-started",
-        "source": "https://github.com/CoreyPhillipsOfficial/e-commerce-site"
-    },
-    {
-        "title": "Javascript Quiz",
-        "imageSrc": "projects/javascript-quiz.png",
-        "description": "This project is a quiz game that tests the user’s knowledge of Javascript. Answer the questions before the timer runs out!",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "Local Storage",
-            "DOM Manipulation"
-        ],
-        "demo": "https://coreyphillipsofficial.github.io/javascript_quiz/",
-        "source": "https://github.com/CoreyPhillipsOfficial/javascript_quiz"
-    }
+  {
+    "title": "Platinum Ears",
+    "imageSrc": "projects/platinum-ears.png",
+    "description": "This project is a quiz game that tests the user’s knowledge of Javascript. Answer the questions before the timer runs out!",
+    "skills": [
+      "Javascript",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "DOM Manipulation"
+    ],
+    "demo": "https://platinumears.pro/",
+    "source": "https://github.com/mbarrie1979/Balance"
+  },
+  {
+    "title": "Tech-Sync",
+    "imageSrc": "projects/tech-sync.png",
+    "description": "This is a MERN stack-based job matching platform. Job-seekers can sign up and match with jobs, while employers can sign up and post jobs that match with job-seekers.",
+    "skills": [
+      "Javascript",
+      "Node.js",
+      "Express.js",
+      "REACT",
+      "Vite",
+      "MongoDB",
+      "Stripe Payments"
+    ],
+    "demo": "https://tech-sync.io/talent",
+    "source": "https://github.com/CoreyPhillipsOfficial/Tech-Sync"
+  },
+  {
+    "title": "Online Clothing Store",
+    "imageSrc": "projects/e-commerce-site.png",
+    "description": "This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce clothing store.",
+    "skills": [
+      "MongoDB",
+      "Express",
+      "REACT",
+      "Node.js",
+      "CSS",
+      "Javascript",
+      "JWT",
+      "CORS"
+    ],
+    "demo": "https://github.com/CoreyPhillipsOfficial/e-commerce-site/blob/main/README.md#getting-started",
+    "source": "https://github.com/CoreyPhillipsOfficial/e-commerce-site"
+  }
 ]
