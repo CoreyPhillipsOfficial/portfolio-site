@@ -2,14 +2,15 @@
   {
     "title": "Platinum Ears",
     "imageSrc": "projects/platinum-ears.png",
-    "description": "This project is a quiz game that tests the user’s knowledge of Javascript. Answer the questions before the timer runs out!",
+    "description": "This is a game used for ear-training. It includes the four most important pillars in audio: balance, panning, EQ, and compression. Become better at mixing music!",
     "skills": [
       "Javascript",
       "CSS",
       "Node.js",
       "Express.js",
       "MongoDB",
-      "DOM Manipulation"
+      "REACT",
+      "JWT"
     ],
     "demo": "https://platinumears.pro/",
     "source": "https://github.com/mbarrie1979/Balance"
@@ -33,7 +34,7 @@
   {
     "title": "Online Clothing Store",
     "imageSrc": "projects/e-commerce-site.png",
-    "description": "This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based e-commerce clothing store.",
+    "description": "This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based app. It is an e-commerce clothing store with clothes for women, men, and children.",
     "skills": [
       "MongoDB",
       "Express",
