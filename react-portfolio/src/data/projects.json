@@ -12,8 +12,7 @@
       "REACT",
       "JWT"
     ],
-    "demo": "https://platinumears.pro/",
-    "source": "https://github.com/mbarrie1979/Balance"
+    "demo": "https://platinumears.pro/"
   },
   {
     "title": "Tech-Sync",
@@ -28,8 +27,7 @@
       "MongoDB",
       "Stripe Payments"
     ],
-    "demo": "https://tech-sync.io/talent",
-    "source": "https://github.com/CoreyPhillipsOfficial/Tech-Sync"
+    "demo": "https://tech-sync.io/talent"
   },
   {
     "title": "Online Clothing Store",

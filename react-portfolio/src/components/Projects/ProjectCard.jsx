@@ -28,11 +28,13 @@ export const ProjectCard = ({
             </ul>
             <div className={styles.links}>
                 <a href={demo} className={styles.link} target='_blank' rel='noopener noreferrer'>
-                    Demo
+                    Link
                 </a>
-                <a href={source} className={styles.link} target='_blank' rel='noopener noreferrer'>
-                    Source
-                </a>
+                {source && (
+                    <a href={source} className={styles.link} target='_blank' rel='noopener noreferrer'>
+                        Source
+                    </a>
+                )}
             </div >
         </div >
     );
