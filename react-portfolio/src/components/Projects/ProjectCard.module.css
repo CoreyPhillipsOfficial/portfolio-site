@@ -4,8 +4,8 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-    box-shadow: 0 16px 14px 0 #04152d;
+    background: linear-gradient(180deg, #506846 0%, #27391c 100%);
+    box-shadow: 0px 4px 10px 2px #819ea9;
     padding: 18px 24px;
     max-width: 345px;
 }
@@ -20,6 +20,7 @@
     font-weight: 900;
     margin-bottom: 10px;
     text-align: center;
+    color: var(--color-bg);
 }
 
 .description {
@@ -42,11 +43,12 @@
 }
 
 .skill {
-    font-size: 25px;
-    font-weight: 400;
-    border-radius: 100px;
-    background: var(--color-dark);
-    padding: 2px 22px;
+    font-size: 18px;
+    font-weight: 200;
+    border-radius: 4px;
+    background: var(--color-bg);
+    height: 30px;
+    padding: 4px 22px;
 }
 
 .links {
@@ -58,10 +60,16 @@
 
 .link {
     text-decoration: none;
-    color: var(--color-text);
+    color: var(--color-bg);
     font-size: 30px;
     font-weight: 600;
     border-radius: 100px;
-    background: var(--color-primary);
+    background: var(--color-secondary);
     padding: 1px 22px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    transition: background-color 0.1s ease-in-out
+}
+
+.link:hover {
+    background-color: #1c2915;
 }

@@ -37,7 +37,7 @@
 }
 
 .skillImageContainer {
-    background-color: var(--color-secondary);
+    background-color: #27391c;
     border-radius: 100%;
     display: flex;
     align-items: center;
