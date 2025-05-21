@@ -110,9 +110,39 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    padding-bottom: 50px;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .content {
     align-items: center;
+  }
+
+  .title {
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    font-family: var(--font-roboto);
+    background: #18230f;
+    /* rgba(255, 255, 255, 0) 120%); */
+    /* -webkit-text-fill-color: transparent; */
+    -webkit-background-clip: text;
+  }
+
+
+  .heroImg {
+    width: 80%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -4rem;
+    margin-bottom: 2rem;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .title {
+    font-size: 40px;
   }
 }

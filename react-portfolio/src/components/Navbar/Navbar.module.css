@@ -77,3 +77,15 @@
         z-index: 1;
     }
 }
+
+@media screen and (max-width: 430px) {
+    .navbar {
+        position: relative;
+        display: flex;
+        /* align-items: center; */
+        justify-content: space-between;
+        padding-top: 2rem;
+        z-index: 2;
+        margin: 0 10%;
+    }
+}
