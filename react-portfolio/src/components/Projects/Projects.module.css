@@ -25,3 +25,9 @@
     gap: 15px;
     width: 100%;
 }
+
+@media screen and (max-width: 830px) {
+    .container {
+        margin-top: 110px;
+    }
+}
