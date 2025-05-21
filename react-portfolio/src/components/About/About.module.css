@@ -87,7 +87,6 @@
 @media screen and (max-width: 830px) {
     .container {
         padding: 3rem;
-        /* padding-bottom: 90px; */
         padding-left: 0;
         padding-right: 0;
     }
