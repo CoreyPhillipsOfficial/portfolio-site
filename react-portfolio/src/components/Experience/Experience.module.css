@@ -113,6 +113,14 @@
 }
 
 @media screen and (max-width: 830px) {
+    .container {
+        margin-top: 150px;
+    }
+
+    .title {
+        padding-bottom: 2.5rem;
+    }
+
     .content {
         flex-direction: column;
         align-items: center;
