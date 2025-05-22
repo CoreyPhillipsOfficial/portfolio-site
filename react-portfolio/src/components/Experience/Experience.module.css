@@ -23,15 +23,17 @@
 }
 
 .skills {
-    width: 45%;
+    /* width: 45%; */
+    align-items: center;
     display: flex;
     flex-wrap: wrap;
     gap: 37px;
+    justify-content: center;
 }
 
 .skill {
-    display: flex;
-    flex-direction: column;
+    /* display: flex; */
+    /* flex-direction: column; */
     align-items: center;
     gap: 11px;
 }
@@ -66,6 +68,7 @@
     font-size: 25px;
     font-family: var(--font-roboto);
     font-weight: 500;
+    text-align: center;
 }
 
 .history {
@@ -130,7 +133,6 @@
     .skills {
         width: 100%;
         flex-direction: row;
-        justify-content: center;
     }
 
     .history {

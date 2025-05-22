@@ -1,5 +1,20 @@
 [
   {
+    "title": "Ari Health",
+    "imageSrc": "projects/ari-health.png",
+    "description": "A modern health tech MVP built with React, Vite, and TypeScript. I helped shape user flows, debug frontend features, and accelerate delivery alongside the founding team.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Tailwind CSS",
+      "daisyUI",
+      "Node.js",
+      "Thirdweb"
+    ],
+    "demo": "https://www.linkedin.com/company/ariinnovation/about/"
+  },
+  {
     "title": "Platinum Ears",
     "imageSrc": "projects/platinum-ears.png",
     "description": "This is a game used for ear-training. It includes the four most important pillars in audio: balance, panning, EQ, and compression. Become better at mixing music!",

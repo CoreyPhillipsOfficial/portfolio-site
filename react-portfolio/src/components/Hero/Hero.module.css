@@ -55,7 +55,7 @@
 }
 
 .heroImgWrapper {
-  width: 90%;
+  width: 80%;
   /* tweak this to taste */
   z-index: 1;
   margin-left: 100px;
@@ -135,6 +135,12 @@
   z-index: 0;
 }
 
+@media screen and (max-width: 1560px) {
+  .title {
+    font-size: 50px;
+  }
+}
+
 @media screen and (max-width: 1250px) {
   .heroImgWrapper {
     width: 140%;
@@ -154,7 +160,7 @@
   }
 
   .title {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 900;
     margin-bottom: 2rem;
     margin-top: 1rem;
