@@ -54,15 +54,43 @@
   background-color: var(--color-secondary);
 }
 
-.heroImg {
-  width: 32%;
+.heroImgWrapper {
+  width: 100%;
+  /* tweak this to taste */
   z-index: 1;
   margin-left: 100px;
   margin-right: 100px;
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation: floating 3s infinite ease-in-out;
+  position: relative;
+}
+
+
+.heroImg {
+  width: 100%;
+  display: block;
+  transition: opacity 0.4s ease-in-out;
+  opacity: 0;
+}
+
+/* NEW – exported helpers so React can find them */
+.visible {
+  opacity: 1;
+}
+
+.hidden {
+  display: none;
+}
+
+/* skeleton placeholder */
+.imageSkeleton {
+  width: 100%;
+  padding-top: 100%;
+  background: #e0e0e0;
+  border-radius: 12px;
+  animation: pulse 1.5s infinite ease-in-out;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 @keyframes floating {
@@ -107,7 +135,13 @@
   z-index: 0;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1250px) {
+  .heroImgWrapper {
+    width: 140%;
+  }
+}
+
+@media screen and (max-width: 1110px) {
   .container {
     flex-direction: column-reverse;
     padding-bottom: 50px;
@@ -131,13 +165,20 @@
     -webkit-background-clip: text;
   }
 
+  .heroImgWrapper {
+    width: 40%;
+  }
 
   .heroImg {
-    width: 80%;
-    margin-left: 100px;
-    margin-right: 100px;
+    /* width: 80%; */
     margin-top: -4rem;
     margin-bottom: 2rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .heroImgWrapper {
+    width: 60%;
   }
 }
 
